@@ -1,3 +1,3 @@
 # Clock-Analog
-"# Analog-Clock" 
-"# Analog-Clock" 
+
+this is my first push in github, hope you like it.😁💕
